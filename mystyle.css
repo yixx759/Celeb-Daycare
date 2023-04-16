@@ -1,0 +1,323 @@
+@font-face {
+    font-family: melanie;
+    src: url("docs/assets/melanie.ttf");
+}
+
+h1{
+    color: #fff01e;
+    font-family: melanie;
+    font-size:  90px;;
+    font-weight:900;
+    margin-bottom: 50px;
+
+}
+body{
+    background-color: rgb(56, 40, 82);
+    
+
+}
+
+button{
+    
+    border-radius: 60%;
+    padding: 2%;
+    background-color: #fff01e;
+    font-family: melanie;
+    font-size:xx-large;
+    font-weight:900;
+    color: rgb(56, 40, 82);
+    border-color: rgb(56, 40, 82);
+    margin-top: 50px;
+    position: absolute;
+    border-width:thick;
+    
+}
+div{
+    height: 100px;
+    width: 650px;
+    position: absolute;
+    
+    left: 50%;
+    margin-top: -50px;
+    margin-left: -325px;
+    
+    
+
+
+}
+img{
+    margin-top: 120px;
+    position: absolute;
+    
+
+
+}
+
+.imgcontainer{
+    margin-top: 25px;
+    height: 1024px;
+    width: 1024px;
+    position: absolute;
+    left: 50%;
+    
+    margin-left: -512px;
+    
+
+
+
+}
+
+.buttoncontainer{
+    
+    margin-top: 270px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: -420px;
+    
+
+
+
+}
+
+
+.gagabuttoncontainer{
+    
+    margin-top: 226px;
+    margin-left: -56px;
+    height: 900px;
+    width: 1150px;
+    
+    
+
+
+
+}
+
+.beybuttoncontainer{
+    
+    margin-top: 652px;
+    margin-left: -56px;
+    height: 900px;
+    width: 1150px;
+    
+    
+
+
+
+}
+
+
+
+
+.kanyebuttoncontainer{
+    
+    margin-top: 226px;
+    margin-left: 310px;
+    height: 900px;
+    width: 1150px;
+    
+    
+
+
+
+}
+.taylorbuttoncontainer{
+    
+    margin-top: 226px;
+    margin-left: -450px;
+    height: 900px;
+    width: 1150px;
+    
+    
+
+
+
+}
+
+
+.bedbuttoncontainer{
+    
+    margin-top: 870px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: -420px;
+    
+
+
+
+}
+
+.blondebuttoncontainer{
+    
+    margin-top: 310px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: 640px;
+    color: rgb(255, 226, 97);
+
+
+
+}
+
+.blondebutton{
+    
+    color: rgb(255, 226, 97);
+
+}
+
+.brownbuttoncontainer{
+    
+    margin-top: 410px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: 640px;
+    color: rgb(68, 31, 21);
+
+
+
+}
+
+.brownbutton{
+    
+    color: rgb(68, 31, 21);
+
+}
+
+.gingerbuttoncontainer{
+    
+    margin-top: 510px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: 640px;
+    color: rgb(248, 130, 34);
+
+
+
+}
+.gingerbutton{
+    
+    color: rgb(248, 130, 34);
+
+}
+.greybuttoncontainer{
+    
+    margin-top: 610px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: 640px;
+    color: rgb(143, 143, 143);
+
+
+
+}
+
+.greybutton{
+    
+    color: rgb(143, 143, 143);
+    width: 120px;
+
+}
+.redbuttoncontainer{
+    
+    margin-top: 710px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: 640px;
+    color: rgb(219, 27, 27);
+
+
+
+}
+.redbutton{
+    
+    color: rgb(219, 27, 27);
+    width: 120px;
+
+}
+
+.whitebuttoncontainer{
+    
+    margin-top: 810px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: 640px;
+    
+    
+
+
+
+}
+.whitebutton{
+    
+    color: #ffffe5;
+
+}
+
+.testbuttoncontainer{
+    
+    margin-top: 1810px;
+    height: 900px;
+    width: 1150px;
+    left: 40%;
+    position: absolute;
+    margin-left: 640px;
+    
+    
+
+
+
+}
+
+
+
+.menuimgcontainer1 {
+    margin-top: 256px;
+    margin-left: 256px;
+
+
+}
+
+.menuimgcontainer2 {
+    margin-top: 256px;
+    margin-left: -128px;
+
+
+}
+.menuimgcontainer3 {
+    margin-top: 256px;
+    margin-left: -512px;
+
+
+}
+
+.menuimgcontainer4 {
+    margin-top: 712px;
+    margin-left: -128px;
+
+
+}
+
+
+.menuimg{
+    height: 256px;
+    width: 256px;
+
+
+}
+
