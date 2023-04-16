@@ -212,7 +212,7 @@ function blinkclose(){
     eyelid = 0;
         
     change();
-    window.setTimeout(blinkopen, 250);
+    window.setTimeout(blinkopen, 450);
     
 }
 
